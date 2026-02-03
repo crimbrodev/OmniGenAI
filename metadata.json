@@ -1,0 +1,9 @@
+{
+  "name": "OmniGen AI Creative Suite",
+  "description": "A world-class multi-functional AI application for video translation, image creation, editing, real-time voice conversations, and advanced reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
